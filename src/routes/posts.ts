@@ -4,7 +4,7 @@ import {
   getCategoriesByIds,
   getTagsByIds,
 } from "../lib/appwrite.js";
-import { GetPublicPostsQueryParams } from "../validation/generated/api.js";
+import { GetPublicPostsQueryParams } from "../validation/generated/api";
 
 const router: IRouter = Router();
 
