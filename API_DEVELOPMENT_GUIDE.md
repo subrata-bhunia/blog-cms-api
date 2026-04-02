@@ -933,3 +933,5 @@ You'll need to update the frontend hooks (`use-posts.ts`, `use-categories.ts`, e
 **Questions or need clarification?** Reference the frontend code in `src/hooks/` for exact data structures and expected behavior.
 
 **Good luck building the API!** 🚀
+
+**This document will be updated as needed during development. Always refer back to the frontend code for any specific requirements or edge cases.**
